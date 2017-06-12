@@ -1,0 +1,38 @@
+.inactiveLink {
+    pointer-events: none;
+    cursor: default;
+}
+
+h4.InlineTitle {
+    display: inline;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 10px;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container1 {
+    padding: 10px;
+}
+#onama {
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: large;
+    padding: 10px;
+    background-color: deepskyblue;
+}
+.kontaktst{
+    float: left;
+    margin-left: 10%;
+    background-color: #d9edf7;
+    font-style: oblique;
+
+}
+pre {
+    white-space: pre-wrap;
+}
